@@ -1,0 +1,13 @@
+{
+  "politica_vacaciones.txt": {"category": "vacaciones", "department": "rrhh", "doc_type": "politica", "author": "Recursos Humanos", "version": "2.1", "effective_year": 2025, "tags": ["vacaciones", "antiguedad", "licencias"]},
+  "politica_teletrabajo.txt": {"category": "teletrabajo", "department": "rrhh", "doc_type": "politica", "author": "Recursos Humanos", "version": "1.3", "effective_year": 2024, "tags": ["teletrabajo", "hibrido", "home-office"]},
+  "politica_seguridad_informatica.txt": {"category": "seguridad informatica", "department": "seguridad", "doc_type": "politica", "author": "Seguridad de la Informacion", "version": "3.0", "effective_year": 2025, "tags": ["2fa", "contrasenas", "byod", "mdm"]},
+  "onboarding_nuevos_empleados.txt": {"category": "onboarding", "department": "rrhh", "doc_type": "procedimiento", "author": "Recursos Humanos", "version": "1.0", "effective_year": 2023, "tags": ["onboarding", "induccion", "buddy"]},
+  "manual_beneficios_y_licencias.md": {"category": "beneficios", "department": "rrhh", "doc_type": "manual", "author": "Recursos Humanos", "version": "2.0", "effective_year": 2025, "tags": ["licencias", "beneficios", "capacitacion"]},
+  "guia_acceso_remoto_vpn.md": {"category": "acceso remoto", "department": "it", "doc_type": "guia", "author": "Mesa de Ayuda IT", "version": "1.2", "effective_year": 2026, "tags": ["vpn", "tc-connect", "acceso-remoto"]},
+  "procedimiento_gestion_incidentes.md": {"category": "incidentes", "department": "seguridad", "doc_type": "procedimiento", "author": "Seguridad de la Informacion", "version": "2.0", "effective_year": 2026, "tags": ["incidentes", "severidad", "postmortem"]},
+  "politica_gastos_y_viajes.md": {"category": "gastos y viajes", "department": "finanzas", "doc_type": "politica", "author": "Finanzas", "version": "1.1", "effective_year": 2026, "tags": ["viajes", "viaticos", "rendicion"]},
+  "sdk_instalacion_configuracion.md": {"category": "techcorp-sdk", "department": "it", "doc_type": "documentacion_tecnica", "author": "Equipo Plataforma", "version": "3.4", "effective_year": 2026, "tags": ["python", "sdk", "instalacion", "configuracion"]},
+  "sdk_referencia_cliente.md": {"category": "techcorp-sdk", "department": "it", "doc_type": "documentacion_tecnica", "author": "Equipo Plataforma", "version": "3.4", "effective_year": 2026, "tags": ["python", "sdk", "api", "paginacion"]},
+  "sdk_errores_y_reintentos.md": {"category": "techcorp-sdk", "department": "it", "doc_type": "documentacion_tecnica", "author": "Equipo Plataforma", "version": "3.4", "effective_year": 2026, "tags": ["python", "sdk", "errores", "reintentos"]}
+}

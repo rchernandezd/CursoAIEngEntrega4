@@ -1,0 +1,14 @@
+langchain-core>=1.0
+langchain-classic>=1.0          # EnsembleRetriever
+langchain-community>=0.4        # BM25Retriever (emite DeprecationWarning: es esperable)
+langchain-text-splitters>=1.0
+langchain-huggingface>=1.0
+langchain-pinecone>=0.2
+langchain-openai>=1.0           # solo se usa con EMBEDDING_PROVIDER=openai
+tiktoken>=0.7                   # tokenizer para chunking con embeddings OpenAI
+sentence-transformers>=3.0
+transformers>=4.40
+rank_bm25>=0.2.2
+pydantic>=2.7
+python-dotenv>=1.0
+pytest>=8.0

@@ -1,6 +1,6 @@
 # Reporte de evaluación — RAG híbrido con Pinecone
 
-Generado: 2026-10-04T16:40:48-03:00 por `python evaluate.py`.
+Generado: 2026-10-04T17:01:15-03:00 por `python evaluate.py`.
 
 ## Configuración
 
